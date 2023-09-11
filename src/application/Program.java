@@ -6,8 +6,8 @@ public class Program {
 /* Desenvolver a tabuada do 1 ao 10 de forma que a saída seja em 
  * um quadrado grande com cada tabuada separada lateralmente, 5 em cima e 
  * 5 em baixo. -->   ---------
- * 					| |	| | | | 
- * 					 ---------	
+ * 		    | | | | | | 
+ * 		     ---------	
  *                  | | | | | |  
  *                   ---------     */	
 		
